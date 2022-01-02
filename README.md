@@ -13,7 +13,7 @@
   <img align="right" alt="" height="150" style="border-radius:50px;" 
 </div>
   
-  ##
+  
 <!-- <div> 
   <a href="https://www.devcbezerra.com" target="_blank"><img src="https://img.shields.io/badge/website?style=for-the-badge&logo=website&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
