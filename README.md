@@ -30,9 +30,9 @@
 <h2 align="center">Experiência</h2>
 
 <p align="center">
-  <em>Projeto X</em>: Aplicação web escalável usando Django e PostgreSQL.
+  <em>DevLink</em>: Aplicação web escalável no modelo marketplace usando Django e PostgreSQL.
   <br>
-  <em>Projeto Y</em>: Colaboração em equipe ágil para um e-commerce com Python.
+  <em>VersaCord</em>: API Wrapper para desenvolviemnto de bots no Dicord.
 </p>
 
 <h2 align="center">Contato</h2>
