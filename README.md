@@ -22,7 +22,7 @@
   
   <img align="right" alt="" height="150" style="border-radius:50px;">
   <br>
-   <strong>Python</strong> (Django, Tkinter) &bull; <strong>Banco de Dados</strong> (PostgreSQL, MySQL) &bull; <strong>Desenvolvimento Web</strong>
+   <strong>Python</strong> (Django) &bull; <strong>Banco de Dados</strong> (PostgreSQL, MySQL) &bull; <strong>Desenvolvimento Web</strong>
 </div>
  
 </p>
