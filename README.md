@@ -2,9 +2,9 @@
   <img src="https://media.licdn.com/dms/image/D4D16AQGT1KIxTeYvtA/profile-displaybackgroundimage-shrink_350_1400/0/1687909518654?e=1700697600&v=beta&t=ECFuQJy8A42RVfTtWACdSBxFv4e_rMcluIJoMy0T0mM" alt="Seu Nome" width="804">
 </p>
 
-<h2 align="center">
+<!--<h2 align="center">
   Desenvolvedor Full-Stack com 6 anos de experiência.
-</h2>
+</h2>-->
 
 <h2 align="center">Habilidades</h2>
 
