@@ -32,7 +32,7 @@
 <p align="center">
   <em>DevLink</em>: Aplicação web escalável no modelo marketplace usando Django e PostgreSQL.
   <br>
-  <em>VersaCord</em>: API Wrapper para desenvolviemnto de bots no Dicord.
+  <em>VersaCord</em>: API Wrapper para desenvolvimento de bots no Dicord.
 </p>
 
 <h2 align="center">Contato</h2>
