@@ -1,6 +1,6 @@
 
 
-[![Banner](https://i.postimg.cc/JhkdrQBt/Make-your-README.png)](https://github.com/BezerraC/BezerraC)
+[![Banner](https://i.postimg.cc/SQHzt0Sz/Linkedin-Personal-Banner-Dark.png)](https://github.com/BezerraC/BezerraC)
 
 <p align="center">
   <a href="mailto:cbezerraneto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
