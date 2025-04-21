@@ -36,7 +36,7 @@
 
 ---
 
-## 📈 Estatísticas GitHub
+<!--## 📈 Estatísticas GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BezerraC&show_icons=true&theme=default&count_private=true"/>
@@ -44,6 +44,7 @@
 </p>
 
 ---
+-->
 
 ## 🤝 Vamos conversar?
 
