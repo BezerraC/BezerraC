@@ -52,4 +52,3 @@ Estou sempre aberto a novos desafios, projetos colaborativos e oportunidades pro
 
 📩 **cbezerraneto@gmail.com**  
 🌐 **[cbezerra.com](https://cbezerra.com)**  
-📍 Joinville / Remoto
